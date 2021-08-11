@@ -1,0 +1,4 @@
+random_user_api:
+  connection_timeout: 10
+  request_timeout: 10
+  version: 1.3
