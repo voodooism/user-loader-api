@@ -2,6 +2,9 @@
 API that imports data from a 3rd party API, saves it in DB and can display it.
 The project is designed using the Symfony framework.
 
+## Specification
+You can read the specification [here](https://github.com/voodooism/user-loader-api/blob/master/specification.md)
+
 ## Installation
 
 ```bash
